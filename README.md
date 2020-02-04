@@ -1,2 +1,1 @@
-# pythonbasic
-Python basic
+NGUYEN VAN CHINH
